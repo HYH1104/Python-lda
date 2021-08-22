@@ -1,2 +1,1 @@
-# Python-pyqt5
-基于python的pyqt5
+基于python的lda主题模型
